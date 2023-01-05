@@ -44,3 +44,6 @@ To ask questions about the lectures, please use the Moodle course interface.
 
 
 Enjoy your course, interact with your collegues, and see you at the final assignment.
+
+
+
